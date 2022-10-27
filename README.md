@@ -12,6 +12,7 @@ The objective of this section is to demonstrate the detection of various types o
   * ORB.
 
 
+
 ## 2. Motivation
 
 A feature in human vision is a region of interest in an image that is unique and easy to recognize. Features include things like, points, edges, blobs, and corners. Thus, features are distinguishable image pixel or region based characteristics that are associated with certain identifiable objects or scenes.  Thus, in order to recognize an object or scene, our human visual system first scans the scene, our brain detects the key points or features and then recognizes the scene by matching or associating the detected features with known objects or scene stored in our memory. Thus, the feature detection is a critical first step in object and scene recognition.
